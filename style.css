@@ -1,0 +1,32 @@
+
+    h1{color:#788999;
+        text-shadow: 5px 3px#123456; 
+        text-decoration: underline;
+        text-transform: uppercase;   
+        font-style: italic;
+    }
+    
+
+.header{border:solid ; 
+    background-color:#2F9D6C ; 
+    display: flex;
+justify-content:space-between;} 
+
+
+.parent{
+    display: flex;
+    justify-content:space-evenly;
+flex-direction: column;}
+
+.footer{
+    display: flex;
+    justify-content:flex-start;
+
+}
+
+h2,h3{
+    text-align: center;
+    color:#CDEFAB;
+    font-weight: bold;
+}
+
